@@ -1,0 +1,15 @@
+master/src/test/java/org/apache/celeborn/service/deploy/master/clustermeta/RegisteredShuffleSetSuiteJ.java
+  h_7c32e79faed024 56,60-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "87c839b2a61299b52b9bf28db3e1f2cc2217e1c8",
+  "prompts": {},
+  "logical_commit_id": "87c839b2a61299b52b9bf28db3e1f2cc2217e1c8",
+  "humans": {
+    "h_7c32e79faed024": {
+      "author": "onebox-li <lyh-36@163.com>"
+    }
+  }
+}
